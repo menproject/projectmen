@@ -7,9 +7,8 @@
 奇迹边缘，即𝙈𝙞𝙧𝙖𝙘𝙡𝙚 𝙀𝙙𝙜𝙚 𝙉𝙚𝙩𝙬𝙤𝙧𝙠，的另一目的是，希望可以有效提升互联网消灭信息差和普及知识的作用。因而也会开展一系列的知识传递活动。包括但不限于网络公开课和网络自学教程。
 
 如果您也想要加入奇迹边缘项目，请直接向项目提Issue或Pull requests来完善它！
-<div style="text-align:center"><figure><img src="https://cnfiles.xhwork.top:65534/static/img/menimage2.svg" />
-<figcaption>Logo of MEN, Helium Lee</figcaption>
-</figure>
+<div align="center"><img src="https://cnfiles.xhwork.top:65534/static/img/menimage2.svg" />
+Logo of MEN, Helium Lee
 </div>
 𝙈𝙞𝙧𝙖𝙘𝙡𝙚 𝙀𝙙𝙜𝙚 𝙉𝙚𝙩𝙬𝙤𝙧𝙠(𝙈𝙀𝙉) is a open-source project which is set up to help the internet realize its purposes of "non-profit" and "charity".
 
